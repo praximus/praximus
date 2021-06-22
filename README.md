@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pramod
-- 👀 I’m interested in Software Engineering and anything related Quality
+- 👀 I’m interested in Software Engineering and anything related to Quality
 - 🌱 I’m always learning
 
 
